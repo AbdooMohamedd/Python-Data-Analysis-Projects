@@ -17,7 +17,6 @@ The full project can also be viewed on Kaggle: [Credit Card Spending - India EDA
 - [Getting Started](#getting-started)
 - [Future Work](#future-work)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
