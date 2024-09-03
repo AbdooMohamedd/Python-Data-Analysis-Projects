@@ -1,5 +1,7 @@
 # Credit Card Spending - India EDA and Visualization
 
+![Credit Card](card.jpg)
+
 This project explores credit card spending patterns in India. The analysis involves cleaning and preprocessing the data, identifying trends and patterns, and visualizing spending habits across different categories.
 
 ## Project Link
@@ -32,7 +34,7 @@ The dataset used for this analysis includes information on credit card transacti
 Here is a sample of the data:
 
 | index | City                  | Date       | Card Type | Exp Type | Gender | Amount |
-|-------|-----------------------|------------|-----------|----------|--------|--------|
+| ----- | --------------------- | ---------- | --------- | -------- | ------ | ------ |
 | 0     | Delhi, India          | 29/10/2014 | Gold      | Bills    | F      | 82475  |
 | 1     | Greater Mumbai, India | 22/08/2014 | Platinum  | Bills    | F      | 32555  |
 | 2     | Bengaluru, India      | 27/08/2014 | Silver    | Bills    | F      | 101738 |
@@ -43,6 +45,7 @@ Here is a sample of the data:
 ## Analysis
 
 The analysis involves the following steps:
+
 1. Data Cleaning: Handling missing values, outliers, and incorrect data entries.
 2. Exploratory Data Analysis (EDA): Identifying trends, patterns, and relationships in the data.
 3. Visualization: Creating visualizations to present the insights gained from the analysis.
@@ -50,6 +53,7 @@ The analysis involves the following steps:
 ## Visualizations
 
 Various visualizations are created to help understand the data better, including:
+
 - Spending trends over time
 - Category-wise spending distribution
 - Correlation between different variables
@@ -73,6 +77,7 @@ cd Python-Data-Analysis-Projects/Credit card spending - India EDA and visualisat
 ## Future Work
 
 Future improvements to this project may include:
+
 - More detailed analysis of specific spending categories
 - Integration of additional data sources for a more comprehensive analysis
 
